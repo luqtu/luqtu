@@ -1,0 +1,19 @@
+# app-ads.txt for Taiyuan Luqiongtu Trading Co., Ltd.
+# 
+# This file is used for mobile app advertising verification and authorization.
+# Mobile advertising platforms will add their information below.
+#
+# For more information about app-ads.txt, visit:
+# https://developers.google.com/admob/android/app-ads-xt
+# https://developers.google.com/admob/ios/app-ads-xt
+#
+# Place this file at the root of your website domain:
+# https://luqtu.com/app-ads.txt
+#
+# Note: This is a placeholder file. Add authorized advertiser IDs below.
+#
+# Format:
+# <ADVERTISER_ID> <CERTIFICATE_ID>
+#
+# Example (Google AdMob):
+# google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0

@@ -1,0 +1,26 @@
+# robots.txt for luqtu.com
+
+# Allow all web crawlers access to all content
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://luqtu.com/sitemap.xml
+
+# Crawl delay (optional, be considerate to the server)
+Crawl-delay: 10
+
+# Block access to sensitive directories (if any exist in the future)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /cgi-bin/
+
+# Block access to certain file types (if any exist in the future)
+# Disallow: /*.php$
+# Disallow: /*.js$
+# Disallow: /*.inc$
+# Disallow: /*.css$
+
+# Block access to temporary files
+# Disallow: /tmp/
+# Disallow: /temp/
